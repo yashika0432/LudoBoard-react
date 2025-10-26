@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 80px;
+  color: aliceblue;
+  margin: 0;
+}
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: larger;
+}
+.one {
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: space-around;
+}

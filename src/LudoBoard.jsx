@@ -26,27 +26,36 @@ export default function LudoBoard() {
 
   return (
     <div>
-      <p>game begins!</p>
+      <h1>Game Begins!</h1>
+      <hr></hr>
       <div className="board">
-        <p>Blue Moves ={moves.blue}</p>
-        <button style={{ backgroundColor: "blue" }} onClick={updateBlue}>
-          +1
-        </button>
-        <p>yellow Moves ={moves.yellow}</p>
-        <button
-          style={{ backgroundColor: "yellow", color: "black" }}
-          onClick={updateYellow}
-        >
-          +1
-        </button>
-        <p>red Moves ={moves.red}</p>
-        <button style={{ backgroundColor: "red" }} onClick={updateRed}>
-          +1
-        </button>
-        <p>green Moves ={moves.green}</p>
-        <button style={{ backgroundColor: "green" }} onClick={updateGreen}>
-          +1
-        </button>
+        <div className="one">
+          <p>Blue Moves ={moves.blue}</p>
+          <button style={{ backgroundColor: "blue" }} onClick={updateBlue}>
+            +1
+          </button>
+        </div>
+        <div className="one">
+          <p>Yellow Moves ={moves.yellow}</p>
+          <button
+            style={{ backgroundColor: "yellow", color: "black" }}
+            onClick={updateYellow}
+          >
+            +1
+          </button>
+        </div>
+        <div className="one">
+          <p>Red Moves ={moves.red}</p>
+          <button style={{ backgroundColor: "red" }} onClick={updateRed}>
+            +1
+          </button>
+        </div>
+        <div className="one">
+          <p>Green Moves ={moves.green}</p>
+          <button style={{ backgroundColor: "green" }} onClick={updateGreen}>
+            +1
+          </button>
+        </div>
       </div>
     </div>
   );
