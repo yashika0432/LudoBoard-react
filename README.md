@@ -20,3 +20,11 @@ It also serves as a learning project for building interactive games using React.
 - 🧠 Game logic handled with React state
 - 📱 Responsive UI
 - ⚛️ Built with reusable React components
+
+---
+
+## 🛠️ Tech Stack
+- React
+- JavaScript (ES6+)
+- CSS
+- Vite / Create React App
