@@ -23,6 +23,20 @@ It also serves as a learning project for building interactive games using React.
 
 ---
 
+## Installation
+1. Clone the repository
+   ``` git clone https://github.com/yourusername/react-ludo-game.git ```
+2. Go to the project directory
+   ``` cd react-ludo-game ```
+3. Install dependencies
+   ``` npm install ```
+4. Start the development server
+   ``` npm run dev ```
+
+   
+
+---
+
 ## 🛠️ Tech Stack
 - React
 - JavaScript (ES6+)
