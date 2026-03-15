@@ -25,7 +25,7 @@ It also serves as a learning project for building interactive games using React.
 
 ## Installation
 1. Clone the repository
-   ``` git clone https://github.com/yourusername/react-ludo-game.git ```
+   ``` git clone https://github.com/yashika0432/LudoBoard-react ```
 2. Go to the project directory
    ``` cd react-ludo-game ```
 3. Install dependencies
