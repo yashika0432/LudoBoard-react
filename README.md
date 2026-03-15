@@ -42,3 +42,11 @@ It also serves as a learning project for building interactive games using React.
 - JavaScript (ES6+)
 - CSS
 - Vite / Create React App
+
+## 🤝 Contributing
+Contributions are welcome!
+
+If you'd like to improve the game, feel free to:
+- Fork the repository
+- Create a new branch
+- Submit a pull request
